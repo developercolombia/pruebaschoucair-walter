@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628095946302</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pruebas de choucair por walter steven carrillo">
+      <created>1628096082332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628096082332</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +165,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="pruebas de choucair por walter steven carrillo" />
     <option name="LAST_COMMIT_MESSAGE" value="pruebas de choucair por walter steven carrillo" />
   </component>
